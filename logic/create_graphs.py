@@ -1,4 +1,6 @@
+import matplotlib
 import matplotlib.pyplot as plt
+
 import numpy as np
 import json
 import io
@@ -50,6 +52,8 @@ def generate_plot_and_decode(type='per_time_categories_percent', categories=[('F
 
 def generate_plot(type='per_time_categories_percent', categories=[('Fehlerbericht', 'Softwarebug'), ('Kritik', 'Benutzerfreundlichkeit'), ('Fehlerbericht', 'Logistikproblem')], data=data_file):
     global colors
+
+    matplotlib.use('Agg')
 
     for i in range(len(categories)):
         categories[i]=(categories[i][0], categories[i][1])

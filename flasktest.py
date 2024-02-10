@@ -1,7 +1,7 @@
 from flask import Flask, Response, request, send_from_directory, send_file, render_template
 from flask_socketio import SocketIO
-from logic import ordne_rezensionen_in_json as ordne
-from logic import chatbot as bot
+from logic import ordne_rezensionen_in_json_openai as ordne
+from logic import chatbot_openai as bot
 from logic.csv_read import read_csv
 import csv
 import codecs
@@ -33,7 +33,7 @@ def process_csv_comments():
     time_avg = 0
     for key in comments:
         start = time.time()
-        time.sleep(8)
+        # time.sleep(8)
         returned_dic = ordne.ordne_in_json(key, comments[key])
         json_string=json.dumps(returned_dic)
         end = time.time()

@@ -1,36 +1,840 @@
-{"Fehlerbericht": {
+{
+    "Fehlerbericht": {
         "Softwarebug": {
-                "095345345": {
-                "keyWord": "Bilder im Warenkorb nicht bearbeitbar",
+            "42": {
+                "keyWord": "Bearbeitungsproblem",
                 "Dringlichkeit": 7,
-                "Zusammenfassung": "Bilder im Warenkorb k\u00f6nnen nicht mehr bearbeitet werden.",
+                "Zusammenfassung": "Bilder im Warenkorb nicht mehr bearbeitbar",
                 "anger_score": 5,
-                "order_id": "09345",
-                "Datum": "2024-1-3",
-                "user_id": "607be46e12235a9e71ee5db2033bf12e",
+                "order_id": "42",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:42",
                 "full_comment": "Bilder im Warenkorb leider nicht mehr bearbeitbar!",
+                "bearbeitet": false
+            },
+            "126": {
+                "keyWord": "H\u00e4nger",
+                "Dringlichkeit": 8,
+                "Zusammenfassung": "Kalendererstellung verursacht manchmal H\u00e4nger im Programm.",
+                "anger_score": 5,
+                "order_id": "126",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:126",
+                "full_comment": "Die Kalendererstellung funktioniert soweit ganz gut. Leider h\u00e4ngt sie zwischendrin manchmal so daass man Angst hat alles zu verlieren aber hat dann doch alles geklappt.",
+                "bearbeitet": false
+            },
+            "210": {
+                "keyWord": "Daten\u00fcbertragung",
+                "Dringlichkeit": 8,
+                "Zusammenfassung": "Keine \u00dcbertragung von Daten von Website zur Software oder App m\u00f6glich",
+                "anger_score": 5,
+                "order_id": "210",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:210",
+                "full_comment": "keine \u00dcbertragung Daten von Website zur Software oder App m\u00f6glich",
+                "bearbeitet": false
+            },
+            "294": {
+                "keyWord": "Webseitenabsturz",
+                "Dringlichkeit": 9,
+                "Zusammenfassung": "Webseite st\u00fcrzte w\u00e4hrend der Fotobuch-Gestaltung mehrmals ab.",
+                "anger_score": 5,
+                "order_id": "294",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:294",
+                "full_comment": "Die Webseite ist w\u00e4hrend der Gestaltung des Fotobuches mehrmals zusammengebrochen",
+                "bearbeitet": false
+            },
+            "336": {
+                "keyWord": "Kalender-Erstellung",
+                "Dringlichkeit": 7,
+                "Zusammenfassung": "Benutzer findet, dass das Programm zur Kalendererstellung nicht reibungslos lief.",
+                "anger_score": 4,
+                "order_id": "336",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:336",
+                "full_comment": "Das Programm bei der Kalendererstellung lief sehr hacklig und nicht zeitnah. Ich wei\u00df aber nicht ob es nicht auch an unserer Leitung liegt. Beim erstellen eines Fotobuchs mit 160 Seiten und eines Kalenders im November hatte ich keine Probleme. Ich bilde mir auch ein dass das Programm etwas anders war weil zB die Kalendergrafik nicht mehr aufrufbar war so wie ich sie 2022 bestellt habe.",
+                "bearbeitet": false
+            },
+            "378": {
+                "keyWord": "Fehler",
+                "Dringlichkeit": 9,
+                "Zusammenfassung": "Bilder mussten mehrfach hochgeladen werden.",
+                "anger_score": 5,
+                "order_id": "378",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:378",
+                "full_comment": "Ich musste mehrfach die Bilder hochladen da sie immer wieder gel\u00f6scht wurden.",
+                "bearbeitet": false
+            },
+            "462": {
+                "keyWord": "Absturz",
+                "Dringlichkeit": 8,
+                "Zusammenfassung": "Seite ist mehrmals abgest\u00fcrzt beim Hochladen von Fotos",
+                "anger_score": 6,
+                "order_id": "462",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:462",
+                "full_comment": "Seite ist mehrmals abgest\u00fcrzt und ich habe viel Zeit gebraucht um meine Fotos mehrmals auszuw\u00e4hlen und hochzuladen",
+                "bearbeitet": false
+            },
+            "2100": {
+                "keyWord": "Gutscheinproblem",
+                "Dringlichkeit": 8,
+                "Zusammenfassung": "Keine M\u00f6glichkeit, Gutschein einzul\u00f6sen.",
+                "anger_score": 4,
+                "order_id": "2100",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:2100",
+                "full_comment": "leider gibt es keine M\u00f6glichkeit meinen Gutschein einzul\u00f6sen !!",
+                "bearbeitet": false
+            },
+            "2688": {
+                "keyWord": "Warenkorbfehler",
+                "Dringlichkeit": 8,
+                "Zusammenfassung": "Problem mit der Anzeige von Artikeln im Warenkorb",
+                "anger_score": 5,
+                "order_id": "2688",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:2688",
+                "full_comment": "bei der Bestellung wurde im Warenkorb nur ein Bild angezeigt aber 61 Abz\u00fcge",
                 "bearbeitet": false
             }
         },
         "Druckfehler": {},
         "Logistikproblem": {},
         "Sonstiges": {}
-
-},"Kritik": {
-        "Vielfalt": {},
+    },
+    "Kritik": {
+        "Vielfalt": {
+            "1512": {
+                "keyWord": "Inflexibilit\u00e4t",
+                "Dringlichkeit": 5,
+                "Zusammenfassung": "Die Aufteilung der Fotos beim Layout der Kalender k\u00f6nnten flexibler sein.",
+                "anger_score": 5,
+                "order_id": "1512",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:1512",
+                "full_comment": "Die Aufteilung der Fotos beim Layout der Kalender k\u00f6nnten flexibler sein.",
+                "bearbeitet": false
+            }
+        },
         "Qualitaet": {},
-        "Benutzerfreundlichkeit": {},
+        "Benutzerfreundlichkeit": {
+            "84": {
+                "keyWord": "Unklar",
+                "Dringlichkeit": 7,
+                "Zusammenfassung": "Bearbeitungsweg nach Produktauswahl ist nicht eindeutig",
+                "anger_score": 5,
+                "order_id": "84",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:84",
+                "full_comment": "Nach Produktauswahl ist der Bearbeitungsweg nicht eindeutig",
+                "bearbeitet": false
+            },
+            "168": {
+                "keyWord": "schwierig",
+                "Dringlichkeit": 7,
+                "Zusammenfassung": "Foto hochladen gestaltet sich schwierig",
+                "anger_score": 5,
+                "order_id": "168",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:168",
+                "full_comment": "Foto hochladen schwierig",
+                "bearbeitet": false
+            },
+            "252": {
+                "keyWord": "Verwirrung",
+                "Dringlichkeit": 7,
+                "Zusammenfassung": "Kunde konnte nicht herausfinden, wie man Fotos beim Fotobuch verschiebt.",
+                "anger_score": 8,
+                "order_id": "252",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:252",
+                "full_comment": "FOTOS VERSCHIEBEN BEIM FOTOBUCH NICHT GEFUNDEN",
+                "bearbeitet": false
+            },
+            "420": {
+                "keyWord": "Navigation",
+                "Dringlichkeit": 7,
+                "Zusammenfassung": "Konnte Gutscheinfeld nicht finden.",
+                "anger_score": 5,
+                "order_id": "420",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:420",
+                "full_comment": "ich konnte das Feld Gutschein nicht finden",
+                "bearbeitet": false
+            },
+            "630": {
+                "keyWord": "Druckqualit\u00e4t",
+                "Dringlichkeit": 7,
+                "Zusammenfassung": "Einfacher Bestellvorgang, jedoch fehlen Angaben zur Druckqualit\u00e4t.",
+                "anger_score": 4,
+                "order_id": "630",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:630",
+                "full_comment": "einfache Handhabung des Bestellvorganges lediglich Angaben zur Qualit\u00e4t des Druckes (Glanz/Matt) fehlen.",
+                "bearbeitet": false
+            },
+            "756": {
+                "keyWord": "Kalenderfunktion",
+                "Dringlichkeit": 7,
+                "Zusammenfassung": "Nicht alle Kalender sind Jahresunabh\u00e4ngig planbar",
+                "anger_score": 5,
+                "order_id": "756",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:756",
+                "full_comment": "Nicht alle Kalender Jahresunabh\u00e4ngig planbar",
+                "bearbeitet": false
+            },
+            "840": {
+                "keyWord": "Verwirrung",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Kunde findet den Anfang verwirrend und w\u00fcnscht einfachere Formulierungen.",
+                "anger_score": 5,
+                "order_id": "840",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:840",
+                "full_comment": "schwierig den Anfang zu finden.M\u00fcsst einfacher formuliert werden.",
+                "bearbeitet": false
+            },
+            "1092": {
+                "keyWord": "Editorfunktion",
+                "Dringlichkeit": 6,
+                "Zusammenfassung": "Nutzer w\u00fcnscht eine Option, um das Bild an den Ausschnitt im Editor anzupassen",
+                "anger_score": 5,
+                "order_id": "1092",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:1092",
+                "full_comment": "der Editor k\u00f6nnte eine Option haben um das Bild an den Ausschnitt anzupassen",
+                "bearbeitet": false
+            },
+            "1134": {
+                "keyWord": "Formatproblem",
+                "Dringlichkeit": 7,
+                "Zusammenfassung": "Bildformat und Kalenderleiste passten nicht bei Wechsel zur Webanwendung",
+                "anger_score": 5,
+                "order_id": "1134",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:1134",
+                "full_comment": "Ich hatte den Kalender in der offline Fotowelt vorbereit. Wegen Versands ins Ausland bin ich zur Webanwendung gewechselt. Leider war das Bildformat und die Kalenderleiste etwas anders sodass einige Fotos nicht so gut passten.",
+                "bearbeitet": false
+            },
+            "1260": {
+                "keyWord": "Un\u00fcbersichtlich",
+                "Dringlichkeit": 4,
+                "Zusammenfassung": "Un\u00fcbersichtlicher Bestellprozess bei bestimmtem Artikel",
+                "anger_score": 5,
+                "order_id": "1260",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:1260",
+                "full_comment": "ab und zu etwas un\u00fcbersichtlich ... zB. bei der Bestellung des Vorjahreskalenders mit aktueller Datumsleiste",
+                "bearbeitet": false
+            },
+            "1470": {
+                "keyWord": "Umst\u00e4ndlich",
+                "Dringlichkeit": 4,
+                "Zusammenfassung": "Mengenanpassung ist umst\u00e4ndlich",
+                "anger_score": 5,
+                "order_id": "1470",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:1470",
+                "full_comment": "Es ist etwas umst\u00e4ndlich die Menge anzupassen...",
+                "bearbeitet": false
+            },
+            "1638": {
+                "keyWord": "Emoji-Problem",
+                "Dringlichkeit": 5,
+                "Zusammenfassung": "Gute Benutzerfreundlichkeit, aber Emojis k\u00f6nnen nicht genutzt werden.",
+                "anger_score": 4,
+                "order_id": "1638",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:1638",
+                "full_comment": "Sehr einfache Bedienung; kleines Manko dass keine Emojis in den Textfeldern eingef\u00fcgt bzw. erkannt werden k\u00f6nnen",
+                "bearbeitet": false
+            },
+            "1722": {
+                "keyWord": "Komplexit\u00e4t",
+                "Dringlichkeit": 7,
+                "Zusammenfassung": "Die Layoutgestaltung ist zu kompliziert.",
+                "anger_score": 5,
+                "order_id": "1722",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:1722",
+                "full_comment": "Die Layoutgestaltung ist auch f\u00fcr mich bei meiner 30 j\u00e4hrigen Erfahrung zu kompliziert!!!! Mehr KI bitte!!!",
+                "bearbeitet": false
+            },
+            "1974": {
+                "keyWord": "Feature Suche",
+                "Dringlichkeit": 7,
+                "Zusammenfassung": "Verwirrt durch fehlende Features zur Bildbearbeitung",
+                "anger_score": 5,
+                "order_id": "1974",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:1974",
+                "full_comment": "insgesamt okay! Leider habe ich einige Features zur Bearbeitung von Fotos (Konvertieren in SW Verkleinern\u2026) nicht gefunden\u2026",
+                "bearbeitet": false
+            }
+        },
         "Service": {},
-        "Preis": {},
-        "Sonstiges": {}
-},"Lob": {
+        "Preis": {
+            "2394": {
+                "keyWord": "Versandkosten",
+                "Dringlichkeit": 5,
+                "Zusammenfassung": "Unangemessene Versandkosten.",
+                "anger_score": 7,
+                "order_id": "2394",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:2394",
+                "full_comment": "Versandkosten unangemessen...",
+                "bearbeitet": false
+            }
+        },
+        "Sonstiges": {
+            "2646": {
+                "keyWord": "Unklar",
+                "Dringlichkeit": 5,
+                "Zusammenfassung": "Rezension ist unklar.",
+                "anger_score": 5,
+                "order_id": "2646",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:2646",
+                "full_comment": "\u00dcbersicht",
+                "bearbeitet": false
+            }
+        }
+    },
+    "Lob": {
         "Vielfalt": {},
-        "Qualitaet": {},
-        "Benutzerfreundlichkeit": {},
-        "Service": {},
+        "Qualitaet": {
+            "588": {
+                "keyWord": "Gute Qualit\u00e4t",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Sehr gute Produkt-Qualit\u00e4t und Bearbeitungsoptionen.",
+                "anger_score": 1,
+                "order_id": "588",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:588",
+                "full_comment": "Gute bearbeitung m\u00f6glich sehr gute Produkt-Qualit\u00e4t !",
+                "bearbeitet": false
+            },
+            "1176": {
+                "keyWord": "Gute Qualit\u00e4t",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Kunde lobt Qualit\u00e4t und schnelle Lieferung.",
+                "anger_score": 1,
+                "order_id": "1176",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:1176",
+                "full_comment": "Gute Qualit\u00e4t schnelle Lieferung einfache und intuitive Nutzung des Programms",
+                "bearbeitet": false
+            },
+            "2184": {
+                "keyWord": "Gute Qualit\u00e4t",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Gute Qualit\u00e4t und schnelle Lieferung",
+                "anger_score": 1,
+                "order_id": "2184",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:2184",
+                "full_comment": "Gute Qualit\u00e4t schnelle Lieferung einfache und intuitive Nutzung des Programms",
+                "bearbeitet": false
+            }
+        },
+        "Benutzerfreundlichkeit": {
+            "504": {
+                "keyWord": "Geschwindigkeit",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Fotos hochladen und bearbeiten geht z\u00fcgig",
+                "anger_score": 2,
+                "order_id": "504",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:504",
+                "full_comment": "Fotos werden schnell hochgeladen und sind prima in der Software zu verarbeiten. Klasse!",
+                "bearbeitet": false
+            },
+            "546": {
+                "keyWord": "Einfache Nutzung",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Gute Qualit\u00e4t, schnelle Lieferung und einfache Nutzung des Programms.",
+                "anger_score": 2,
+                "order_id": "546",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:546",
+                "full_comment": "Gute Qualit\u00e4t schnelle Lieferung einfache und intuitive Nutzung des Programms",
+                "bearbeitet": false
+            },
+            "672": {
+                "keyWord": "Einfach",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Einfache Bedienung und Bildkontrolle.",
+                "anger_score": 2,
+                "order_id": "672",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:672",
+                "full_comment": "einfache Bedienung und Bildkontrolle",
+                "bearbeitet": false
+            },
+            "714": {
+                "keyWord": "\u00dcbersichtlich & Schnell",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Gute Performance und \u00dcbersichtlichkeit f\u00fcr kleine Projekte",
+                "anger_score": 1,
+                "order_id": "714",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:714",
+                "full_comment": "Genauso fix und \u00fcbersichtlich wie in der App f\u00fcr kleine Projekte vollkommen ausreichend",
+                "bearbeitet": false
+            },
+            "798": {
+                "keyWord": "Einfachheit",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Einfache Gestaltung und gute Hilfestellung",
+                "anger_score": 1,
+                "order_id": "798",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:798",
+                "full_comment": "Einfache Gestaltung und gute Erkl\u00e4rungen bei Problemen",
+                "bearbeitet": false
+            },
+            "882": {
+                "keyWord": "Schlicht",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Einfache Handhabung, sehr zufrieden.",
+                "anger_score": 1,
+                "order_id": "882",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:882",
+                "full_comment": "War alles sehr einfach zu handhaben. Sehr sch\u00f6n",
+                "bearbeitet": false
+            },
+            "924": {
+                "keyWord": "Benutzerfreundlich",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Sehr \u00fcbersichtlich und leicht zu bedienen",
+                "anger_score": 1,
+                "order_id": "924",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:924",
+                "full_comment": "Sehr \u00fcbersichtlich leicht zu bedienen transparente Kostenangaben Angabe von voraussichtlichem Liefertermin ingesamt sehr Nutzerfreundlich",
+                "bearbeitet": false
+            },
+            "966": {
+                "keyWord": "\u00dcbersichtlich",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Gut zu bearbeitende \u00dcbersichtlichkeit",
+                "anger_score": 1,
+                "order_id": "966",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:966",
+                "full_comment": "Sehr \u00fcbersichtlich - gute Bearbeitungsm\u00f6glichkeiten",
+                "bearbeitet": false
+            },
+            "1008": {
+                "keyWord": "Einfach",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Unkomplizierte Bedienung",
+                "anger_score": 1,
+                "order_id": "1008",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:1008",
+                "full_comment": "Unkomplizierte Bedienung",
+                "bearbeitet": false
+            },
+            "1050": {
+                "keyWord": "Schnell und einfach",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Schnelle Bestellung durch einfachen Seitenaufbau.",
+                "anger_score": 2,
+                "order_id": "1050",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:1050",
+                "full_comment": "Schnelles Bestellen der Fotos m\u00f6glich. Einfacher Aufbau der Seite!",
+                "bearbeitet": false
+            },
+            "1218": {
+                "keyWord": "Einfach",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Leichte Bedienung und Zufriedenheit.",
+                "anger_score": 1,
+                "order_id": "1218",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:1218",
+                "full_comment": "Easy zu bedienen einfach immer wieder gut!",
+                "bearbeitet": false
+            },
+            "1302": {
+                "keyWord": "Einfachheit",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kunde findet die Bedienung einfach.",
+                "anger_score": 1,
+                "order_id": "1302",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:1302",
+                "full_comment": "einfache Bedienung",
+                "bearbeitet": false
+            },
+            "1344": {
+                "keyWord": "Gestaltungsm\u00f6glichkeiten",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kunde lobt die Gestaltungsm\u00f6glichkeiten",
+                "anger_score": 1,
+                "order_id": "1344",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:1344",
+                "full_comment": "Gute Gestaltungsm\u00f6glichkeiten",
+                "bearbeitet": false
+            },
+            "1386": {
+                "keyWord": "Verst\u00e4ndlich",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Klare Struktur, verst\u00e4ndlich",
+                "anger_score": 1,
+                "order_id": "1386",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:1386",
+                "full_comment": "Verst\u00e4ndlich und klar strukturiert",
+                "bearbeitet": false
+            },
+            "1428": {
+                "keyWord": "Einfachheit",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Einfacher und schneller Bestellvorgang",
+                "anger_score": 2,
+                "order_id": "1428",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:1428",
+                "full_comment": "super einfach und schnell",
+                "bearbeitet": false
+            },
+            "1554": {
+                "keyWord": "Einfachheit",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Die Benutzeroberfl\u00e4che ist sauber und leicht zu verstehen.",
+                "anger_score": 1,
+                "order_id": "1554",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:1554",
+                "full_comment": "Sauber und Schnell zu verstehen.",
+                "bearbeitet": false
+            },
+            "1596": {
+                "keyWord": "Intuitiv",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "\u00dcbersichtlich, einfach zu Bedienen und schick.",
+                "anger_score": 2,
+                "order_id": "1596",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:1596",
+                "full_comment": "sehr \u00fcbersichtlich und leicht zu bedienen und nat\u00fcrlich optisch ansprechend",
+                "bearbeitet": false
+            },
+            "1680": {
+                "keyWord": "Einfachheit",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kunde findet die Men\u00fcf\u00fchrung einfach.",
+                "anger_score": 1,
+                "order_id": "1680",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:1680",
+                "full_comment": "einfache Men\u00fcdhrung",
+                "bearbeitet": false
+            },
+            "1764": {
+                "keyWord": "\u00dcbersichtlich",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Der Nutzer findet die Software \u00fcbersichtlich.",
+                "anger_score": 1,
+                "order_id": "1764",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:1764",
+                "full_comment": "\u00fcbersichtlich",
+                "bearbeitet": false
+            },
+            "1806": {
+                "keyWord": "Einfache Bestellung",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Klare und \u00fcbersichtliche Bestellung",
+                "anger_score": 1,
+                "order_id": "1806",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:1806",
+                "full_comment": "\u00dcbersichtlich. Man muss nicht lange suchen um das ben\u00f6gte Produkt zu finden. Bestellung verl\u00e4uft sehr flott",
+                "bearbeitet": false
+            },
+            "1848": {
+                "keyWord": "Einfach",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Einfache Bedienung",
+                "anger_score": 1,
+                "order_id": "1848",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:1848",
+                "full_comment": "Einfache Bedienung",
+                "bearbeitet": false
+            },
+            "1890": {
+                "keyWord": "Einfachheit",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Benutzung ist einfach und verst\u00e4ndlich.",
+                "anger_score": 1,
+                "order_id": "1890",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:1890",
+                "full_comment": "einfach und verst\u00e4ndlich",
+                "bearbeitet": false
+            },
+            "1932": {
+                "keyWord": "\u00dcbersichtlich",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Intuitiver und \u00fcbersichtlicher Benutzerbereich.",
+                "anger_score": 1,
+                "order_id": "1932",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:1932",
+                "full_comment": "Intuitiv einfach und \u00fcbersichtlich! :-)",
+                "bearbeitet": false
+            },
+            "2016": {
+                "keyWord": "\u00dcbersichtlichkeit",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Praktisch und \u00fcbersichtlich",
+                "anger_score": 1,
+                "order_id": "2016",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:2016",
+                "full_comment": "Sehr praktisch und \u00fcbersichtlich",
+                "bearbeitet": false
+            },
+            "2058": {
+                "keyWord": "Bestellvorgang",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Top Bestellvorgang!",
+                "anger_score": 1,
+                "order_id": "2058",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:2058",
+                "full_comment": "Top Bestellvorgang!",
+                "bearbeitet": false
+            },
+            "2142": {
+                "keyWord": "Unkompliziert",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Bestellprozess war schnell und unkompliziert",
+                "anger_score": 1,
+                "order_id": "2142",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:2142",
+                "full_comment": "Schnelle unkomplizierte Bestellung!!",
+                "bearbeitet": false
+            },
+            "2184": {
+                "keyWord": "Intuitiv",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Gute Qualit\u00e4t, schnelle Lieferung und einfache Nutzung des Programms",
+                "anger_score": 1,
+                "order_id": "2184",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:2184",
+                "full_comment": "Gute Qualit\u00e4t schnelle Lieferung einfache und intuitive Nutzung des Programms",
+                "bearbeitet": false
+            },
+            "2352": {
+                "keyWord": "Z\u00fcgig",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Bestellvorgang ist z\u00fcgig und effizient.",
+                "anger_score": 2,
+                "order_id": "2352",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:2352",
+                "full_comment": "Bestellung ging z\u00fcgig",
+                "bearbeitet": false
+            },
+            "2562": {
+                "keyWord": "Unkompliziert",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Einfaches Bestellverfahren",
+                "anger_score": 1,
+                "order_id": "2562",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:2562",
+                "full_comment": "Unkompliziert",
+                "bearbeitet": false
+            },
+            "2604": {
+                "keyWord": "Bedienungsanleitung",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Die Gebrauchsanweisung ist leicht zu verstehen",
+                "anger_score": 2,
+                "order_id": "2604",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:2604",
+                "full_comment": "Leichte Genrauchsanweisung",
+                "bearbeitet": false
+            },
+            "2814": {
+                "keyWord": "Zuverl\u00e4ssig",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Produkt funktioniert immer",
+                "anger_score": 1,
+                "order_id": "2814",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:2814",
+                "full_comment": "funktioniert immer",
+                "bearbeitet": false
+            }
+        },
+        "Service": {
+            "588": {
+                "keyWord": "Qualit\u00e4t",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Benutzer lobt die Produktqualit\u00e4t.",
+                "anger_score": 2,
+                "order_id": "588",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:588",
+                "full_comment": "Gute bearbeitung m\u00f6glich sehr gute Produkt-Qualit\u00e4t !",
+                "bearbeitet": false
+            },
+            "2226": {
+                "keyWord": "Perfekter Service",
+                "Dringlichkeit": 0,
+                "Zusammenfassung": "Kompetent und perfekt, wie immer.",
+                "anger_score": 1,
+                "order_id": "2226",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:2226",
+                "full_comment": "wie immer - einfach kompetent perfekt",
+                "bearbeitet": false
+            },
+            "2268": {
+                "keyWord": "Super Service",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Kunde lobt den tollen Service",
+                "anger_score": 2,
+                "order_id": "2268",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:2268",
+                "full_comment": "Super Service Dankesch\u00f6n \ud83d\udc4d",
+                "bearbeitet": true
+            },
+            "2310": {
+                "keyWord": "Hervorragender Service",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kunde lobt den sofortigen und tollen Service.",
+                "anger_score": 1,
+                "order_id": "2310",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:2310",
+                "full_comment": "nette menschen  hilfe sofort toller service einfach toll",
+                "bearbeitet": false
+            },
+            "2478": {
+                "keyWord": "Zufrieden",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Alles ist gut",
+                "anger_score": 1,
+                "order_id": "2478",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:2478",
+                "full_comment": "Alles bestens",
+                "bearbeitet": false
+            },
+            "2730": {
+                "keyWord": "Zufrieden",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Kunde ist gl\u00fccklich",
+                "anger_score": 1,
+                "order_id": "2730",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:2730",
+                "full_comment": "Weiter so :-)",
+                "bearbeitet": false
+            }
+        },
         "Preis": {},
-        "Sonstiges": {}
-},"Sonstiges": {
-        "Sonstiges" : {}
-}
+        "Sonstiges": {
+            "2352": {
+                "keyWord": "Schnelle Bestellung",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Bestellung war schnell und unkompliziert",
+                "anger_score": 1,
+                "order_id": "2352",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:2352",
+                "full_comment": "Bestellung ging z\u00fcgig",
+                "bearbeitet": false
+            },
+            "2478": {
+                "keyWord": "Zufrieden",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Alles bestens",
+                "anger_score": 1,
+                "order_id": "2478",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:2478",
+                "full_comment": "Alles bestens",
+                "bearbeitet": false
+            },
+            "2730": {
+                "keyWord": "Anerkennung",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Zufriedener Kunde gibt positives Feedback",
+                "anger_score": 1,
+                "order_id": "2730",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:2730",
+                "full_comment": "Weiter so :-)",
+                "bearbeitet": false
+            },
+            "2772": {
+                "keyWord": "Gut",
+                "Dringlichkeit": 2,
+                "Zusammenfassung": "Einfach gut",
+                "anger_score": 1,
+                "order_id": "2772",
+                "Datum": "2024-1-10",
+                "user_id": "ausgedacht:2772",
+                "full_comment": "Einfach Gut",
+                "bearbeitet": false
+            }
+        }
+    },
+    "Sonstiges": {
+        "Sonstiges": {
+            "2436": {
+                "keyWord": "Zufrieden",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Einfacher positiver Smiley :)",
+                "anger_score": 1,
+                "order_id": "2436",
+                "Datum": "2024-1-8",
+                "user_id": "ausgedacht:2436",
+                "full_comment": ":)",
+                "bearbeitet": false
+            },
+            "2520": {
+                "keyWord": "Neutral",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Der Kunde m\u00f6chte das Produkt ausprobieren.",
+                "anger_score": 5,
+                "order_id": "2520",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:2520",
+                "full_comment": "Ich m\u00f6chte es einfach ausprobieren.",
+                "bearbeitet": false
+            },
+            "2646": {
+                "keyWord": "Neutral",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Unklare Rezension",
+                "anger_score": 5,
+                "order_id": "2646",
+                "Datum": "2024-1-9",
+                "user_id": "ausgedacht:2646",
+                "full_comment": "\u00dcbersicht",
+                "bearbeitet": false
+            }
+        }
+    }
 }

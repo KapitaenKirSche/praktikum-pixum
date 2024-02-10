@@ -1,98 +1,40 @@
 {
     "2024-1-8": {
         "Fehlerbericht/Softwarebug": {
-            "Durchschnitt": 3.3333333333333335,
-            "Median": 3
-        },
-        "insgesamt": {
-            "Durchschnitt": 1.6666666666666667,
-            "Median": 1
-        },
-        "Fehlerbericht/insgesamt": {
-            "Durchschnitt": 3.3333333333333335,
-            "Median": 3
-        },
-        "Kritik/Benutzerfreundlichkeit": {
-            "Durchschnitt": 2.75,
-            "Median": 3.0
-        },
-        "Kritik/insgesamt": {
-            "Durchschnitt": 3.2,
-            "Median": 3
-        },
-        "Kritik/Service": {
             "Durchschnitt": 5.0,
             "Median": 5
         },
-        "Lob/Qualitaet": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        },
-        "Lob/insgesamt": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        },
-        "Lob/Benutzerfreundlichkeit": {
-            "Durchschnitt": 1.0,
+        "insgesamt": {
+            "Durchschnitt": 2.375,
             "Median": 1.0
         },
-        "Lob/Service": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        },
-        "Lob/Sonstiges": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        }
-    },
-    "2024-1-9": {
-        "Fehlerbericht/Softwarebug": {
-            "Durchschnitt": 4.6,
-            "Median": 5
-        },
-        "insgesamt": {
-            "Durchschnitt": 2.3076923076923075,
-            "Median": 2.0
-        },
         "Fehlerbericht/insgesamt": {
-            "Durchschnitt": 4.6,
+            "Durchschnitt": 5.0,
             "Median": 5
         },
         "Kritik/Benutzerfreundlichkeit": {
-            "Durchschnitt": 2.7142857142857144,
-            "Median": 3
+            "Durchschnitt": 4.6,
+            "Median": 5
         },
         "Kritik/insgesamt": {
-            "Durchschnitt": 2.7777777777777777,
-            "Median": 3
-        },
-        "Kritik/Service": {
-            "Durchschnitt": 3.0,
-            "Median": 3
-        },
-        "Kritik/Sonstiges": {
-            "Durchschnitt": 3.0,
-            "Median": 3
+            "Durchschnitt": 4.6,
+            "Median": 5
         },
         "Lob/Qualitaet": {
             "Durchschnitt": 1.0,
-            "Median": 1
+            "Median": 1.0
         },
         "Lob/insgesamt": {
-            "Durchschnitt": 1.0,
+            "Durchschnitt": 1.2,
             "Median": 1
         },
         "Lob/Benutzerfreundlichkeit": {
-            "Durchschnitt": 1.0,
+            "Durchschnitt": 1.25,
             "Median": 1.0
         },
         "Lob/Service": {
             "Durchschnitt": 1.0,
-            "Median": 1.0
-        },
-        "Lob/Sonstiges": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
+            "Median": 1
         },
         "Sonstiges/Sonstiges": {
             "Durchschnitt": 1.0,
@@ -103,236 +45,88 @@
             "Median": 1
         }
     },
+    "2024-1-9": {
+        "Fehlerbericht/Softwarebug": {
+            "Durchschnitt": 4.8,
+            "Median": 5
+        },
+        "insgesamt": {
+            "Durchschnitt": 3.230769230769231,
+            "Median": 4.0
+        },
+        "Fehlerbericht/insgesamt": {
+            "Durchschnitt": 4.8,
+            "Median": 5
+        },
+        "Kritik/Vielfalt": {
+            "Durchschnitt": 5.0,
+            "Median": 5
+        },
+        "Kritik/insgesamt": {
+            "Durchschnitt": 5.0,
+            "Median": 5
+        },
+        "Kritik/Benutzerfreundlichkeit": {
+            "Durchschnitt": 5.0,
+            "Median": 5
+        },
+        "Kritik/Preis": {
+            "Durchschnitt": 5.0,
+            "Median": 5
+        },
+        "Lob/Benutzerfreundlichkeit": {
+            "Durchschnitt": 1.25,
+            "Median": 1.0
+        },
+        "Lob/insgesamt": {
+            "Durchschnitt": 1.25,
+            "Median": 1.0
+        },
+        "Lob/Service": {
+            "Durchschnitt": 1.25,
+            "Median": 1.0
+        },
+        "Sonstiges/Sonstiges": {
+            "Durchschnitt": 5.0,
+            "Median": 5.0
+        },
+        "Sonstiges/insgesamt": {
+            "Durchschnitt": 5.0,
+            "Median": 5.0
+        }
+    },
     "2024-1-10": {
         "Fehlerbericht/Softwarebug": {
-            "Durchschnitt": 3.3333333333333335,
-            "Median": 3
-        },
-        "insgesamt": {
-            "Durchschnitt": 1.6842105263157894,
-            "Median": 1
-        },
-        "Fehlerbericht/insgesamt": {
-            "Durchschnitt": 3.3333333333333335,
-            "Median": 3
-        },
-        "Kritik/Benutzerfreundlichkeit": {
-            "Durchschnitt": 4.0,
-            "Median": 4.0
-        },
-        "Kritik/insgesamt": {
-            "Durchschnitt": 4.0,
-            "Median": 4.0
-        },
-        "Lob/Benutzerfreundlichkeit": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        },
-        "Lob/insgesamt": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
-        },
-        "Lob/Service": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
-        },
-        "Lob/Sonstiges": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        }
-    },
-    "2024-1-11": {
-        "Fehlerbericht/Softwarebug": {
-            "Durchschnitt": 3.6666666666666665,
-            "Median": 3
-        },
-        "insgesamt": {
-            "Durchschnitt": 1.8571428571428572,
-            "Median": 1
-        },
-        "Fehlerbericht/insgesamt": {
-            "Durchschnitt": 3.25,
-            "Median": 3.0
-        },
-        "Fehlerbericht/Logistikproblem": {
-            "Durchschnitt": 2.0,
-            "Median": 2
-        },
-        "Kritik/Benutzerfreundlichkeit": {
-            "Durchschnitt": 2.0,
-            "Median": 2
-        },
-        "Kritik/insgesamt": {
-            "Durchschnitt": 3.25,
-            "Median": 3.0
-        },
-        "Kritik/Service": {
-            "Durchschnitt": 3.0,
-            "Median": 3.0
-        },
-        "Kritik/Sonstiges": {
-            "Durchschnitt": 5.0,
-            "Median": 5
-        },
-        "Lob/Qualitaet": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        },
-        "Lob/insgesamt": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        },
-        "Lob/Benutzerfreundlichkeit": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        },
-        "Lob/Service": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
-        },
-        "Lob/Sonstiges": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        }
-    },
-    "2024-1-12": {
-        "Fehlerbericht/Softwarebug": {
-            "Durchschnitt": 4.0,
-            "Median": 4.0
-        },
-        "insgesamt": {
-            "Durchschnitt": 2.4285714285714284,
-            "Median": 3.0
-        },
-        "Fehlerbericht/insgesamt": {
-            "Durchschnitt": 4.0,
-            "Median": 4.0
-        },
-        "Kritik/Benutzerfreundlichkeit": {
-            "Durchschnitt": 3.0,
-            "Median": 3.0
-        },
-        "Kritik/insgesamt": {
-            "Durchschnitt": 3.0,
-            "Median": 3.0
-        },
-        "Lob/Benutzerfreundlichkeit": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        },
-        "Lob/insgesamt": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
-        },
-        "Lob/Service": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        },
-        "Lob/Sonstiges": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
-        }
-    },
-    "2024-1-13": {
-        "Fehlerbericht/Softwarebug": {
-            "Durchschnitt": 5.0,
-            "Median": 5
-        },
-        "insgesamt": {
-            "Durchschnitt": 1.6666666666666667,
-            "Median": 1
-        },
-        "Fehlerbericht/insgesamt": {
-            "Durchschnitt": 5.0,
-            "Median": 5
-        },
-        "Kritik/Benutzerfreundlichkeit": {
-            "Durchschnitt": 3.0,
-            "Median": 3
-        },
-        "Kritik/insgesamt": {
-            "Durchschnitt": 3.0,
-            "Median": 3
-        },
-        "Lob/Benutzerfreundlichkeit": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        },
-        "Lob/insgesamt": {
-            "Durchschnitt": 1.0,
-            "Median": 1
-        },
-        "Lob/Service": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
-        },
-        "Lob/Sonstiges": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
-        }
-    },
-    "2024-1-14": {
-        "Fehlerbericht/Softwarebug": {
-            "Durchschnitt": 4.166666666666667,
-            "Median": 3.0
+            "Durchschnitt": 6.0,
+            "Median": 6
         },
         "insgesamt": {
             "Durchschnitt": 2.2,
             "Median": 1
         },
         "Fehlerbericht/insgesamt": {
-            "Durchschnitt": 4.166666666666667,
-            "Median": 3.0
+            "Durchschnitt": 6.0,
+            "Median": 6
         },
         "Kritik/Benutzerfreundlichkeit": {
-            "Durchschnitt": 2.75,
-            "Median": 3.0
+            "Durchschnitt": 4.0,
+            "Median": 3.5
         },
         "Kritik/insgesamt": {
-            "Durchschnitt": 3.2,
-            "Median": 3
-        },
-        "Kritik/Service": {
-            "Durchschnitt": 5.0,
-            "Median": 5
+            "Durchschnitt": 4.0,
+            "Median": 3.5
         },
         "Lob/Benutzerfreundlichkeit": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
+            "Durchschnitt": 1.1111111111111112,
+            "Median": 1
         },
         "Lob/insgesamt": {
-            "Durchschnitt": 1.0,
+            "Durchschnitt": 1.1,
             "Median": 1.0
         },
         "Lob/Service": {
             "Durchschnitt": 1.0,
-            "Median": 1.0
-        },
-        "Lob/Sonstiges": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
-        }
-    },
-    "2024-1-15": {
-        "Fehlerbericht/Softwarebug": {
-            "Durchschnitt": 3.0,
-            "Median": 3.0
-        },
-        "insgesamt": {
-            "Durchschnitt": 2.0,
-            "Median": 2.0
-        },
-        "Fehlerbericht/insgesamt": {
-            "Durchschnitt": 3.0,
-            "Median": 3.0
-        },
-        "Lob/Benutzerfreundlichkeit": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
-        },
-        "Lob/insgesamt": {
-            "Durchschnitt": 1.0,
-            "Median": 1.0
+            "Median": 1
         }
     }
 }

@@ -1,0 +1,28 @@
+{"Fehlerbericht": {
+        "Softwarebug": {},
+        "Druckfehler": {},
+        "Logistikproblem": {},
+        "Sonstiges": {}
+
+},"Kritik": {
+        "Vielfalt": {},
+        "Qualitaet": {},
+        "Benutzerfreundlichkeit": {},
+        "Service": {},
+        "Preis": {},
+        "Sonstiges": {}
+},"Lob": {
+        "Vielfalt": {},
+        "Qualitaet": {},
+        "Benutzerfreundlichkeit": {},
+        "Service": {},
+        "Preis": {},
+        "Sonstiges": {"2464993": {
+                                "keyWord": "Positiv",
+                                "Dringlichkeit": 3,
+                                "Zusammenfassung": "Einfach alles super!",
+                                "anger_score" : 1}}
+},"Sonstiges": {
+        "Sonstiges" : {}
+}
+}

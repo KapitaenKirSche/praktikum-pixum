@@ -1,0 +1,98 @@
+{
+    "2024-1-8": {
+        "Fehlerbericht/Softwarebug": 3,
+        "insgesamt": 27,
+        "Fehlerbericht/insgesamt": 3,
+        "Kritik/Benutzerfreundlichkeit": 4,
+        "Kritik/insgesamt": 5,
+        "Kritik/Service": 1,
+        "Lob/Qualitaet": 1,
+        "Lob/insgesamt": 19,
+        "Lob/Benutzerfreundlichkeit": 10,
+        "Lob/Service": 5,
+        "Lob/Sonstiges": 3
+    },
+    "2024-1-9": {
+        "Fehlerbericht/Softwarebug": 5,
+        "insgesamt": 26,
+        "Fehlerbericht/insgesamt": 5,
+        "Kritik/Benutzerfreundlichkeit": 7,
+        "Kritik/insgesamt": 9,
+        "Kritik/Service": 1,
+        "Kritik/Sonstiges": 1,
+        "Lob/Qualitaet": 1,
+        "Lob/insgesamt": 11,
+        "Lob/Benutzerfreundlichkeit": 6,
+        "Lob/Service": 2,
+        "Lob/Sonstiges": 2,
+        "Sonstiges/Sonstiges": 1,
+        "Sonstiges/insgesamt": 1
+    },
+    "2024-1-10": {
+        "Fehlerbericht/Softwarebug": 3,
+        "insgesamt": 19,
+        "Fehlerbericht/insgesamt": 3,
+        "Kritik/Benutzerfreundlichkeit": 2,
+        "Kritik/insgesamt": 2,
+        "Lob/Benutzerfreundlichkeit": 9,
+        "Lob/insgesamt": 14,
+        "Lob/Service": 2,
+        "Lob/Sonstiges": 3
+    },
+    "2024-1-11": {
+        "Fehlerbericht/Softwarebug": 3,
+        "insgesamt": 21,
+        "Fehlerbericht/insgesamt": 4,
+        "Fehlerbericht/Logistikproblem": 1,
+        "Kritik/Benutzerfreundlichkeit": 1,
+        "Kritik/insgesamt": 4,
+        "Kritik/Service": 2,
+        "Kritik/Sonstiges": 1,
+        "Lob/Qualitaet": 1,
+        "Lob/insgesamt": 13,
+        "Lob/Benutzerfreundlichkeit": 9,
+        "Lob/Service": 2,
+        "Lob/Sonstiges": 1
+    },
+    "2024-1-12": {
+        "Fehlerbericht/Softwarebug": 4,
+        "insgesamt": 14,
+        "Fehlerbericht/insgesamt": 4,
+        "Kritik/Benutzerfreundlichkeit": 4,
+        "Kritik/insgesamt": 4,
+        "Lob/Benutzerfreundlichkeit": 3,
+        "Lob/insgesamt": 6,
+        "Lob/Service": 1,
+        "Lob/Sonstiges": 2
+    },
+    "2024-1-13": {
+        "Fehlerbericht/Softwarebug": 1,
+        "insgesamt": 15,
+        "Fehlerbericht/insgesamt": 1,
+        "Kritik/Benutzerfreundlichkeit": 3,
+        "Kritik/insgesamt": 3,
+        "Lob/Benutzerfreundlichkeit": 3,
+        "Lob/insgesamt": 11,
+        "Lob/Service": 4,
+        "Lob/Sonstiges": 4
+    },
+    "2024-1-14": {
+        "Fehlerbericht/Softwarebug": 6,
+        "insgesamt": 25,
+        "Fehlerbericht/insgesamt": 6,
+        "Kritik/Benutzerfreundlichkeit": 4,
+        "Kritik/insgesamt": 5,
+        "Kritik/Service": 1,
+        "Lob/Benutzerfreundlichkeit": 6,
+        "Lob/insgesamt": 14,
+        "Lob/Service": 4,
+        "Lob/Sonstiges": 4
+    },
+    "2024-1-15": {
+        "Fehlerbericht/Softwarebug": 2,
+        "insgesamt": 4,
+        "Fehlerbericht/insgesamt": 2,
+        "Lob/Benutzerfreundlichkeit": 2,
+        "Lob/insgesamt": 2
+    }
+}

@@ -1,0 +1,18 @@
+<html>
+<head>
+    <link rel="stylesheet" href="/html/styles/input_csv.css">
+</head>
+  <body>
+    <h1 id="headline">UPLOAD FILE</h1>
+    <hr />
+    <p id="info_text">Bitte lade ein csv-file hoch.</p>
+        <form id='upload_form' action="/process/comments/csv" method="POST" enctype="multipart/form-data">
+            <input type="file" name="upload_comments_csv_file" />
+            <input type="submit" />
+        </form>
+    <p id="time_info_text"></p>
+    <div id="progress_div" class="container"></div>
+    <ul id="items" class="comment_ul"></ul>
+    <script type="module" src="/scripts/input_csv.js"></script>
+  </body>
+</html>

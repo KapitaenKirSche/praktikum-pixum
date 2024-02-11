@@ -12,3 +12,4 @@ def calc_dif(data_dict, solution=rezensionen.example_sort):
                         wrong+=1
                     total+=1
     return wrong/total
+#git test

@@ -1,6 +1,6 @@
 <h1>Projekt zum Kategorisieren und Filtern von Kundenrezensionen</h1>
 
-Das Projekt ist im Ramen menes Praktikums bei Pixum entstanden.
+Das Projekt ist im Ramen meines Praktikums bei Pixum entstanden.
 
 Auszuführende Datei ist "flasktest.py".
 
